@@ -492,6 +492,13 @@
         flex: 0 0 45%;
         max-width: 45%;
     }
+
+    .latest_update_carousel .owl-nav button.owl-prev{
+        top: 0;
+    }
+    .latest_update_carousel .owl-nav button.owl-next{
+        top: 48px;
+    }
     /* New CSS End */
 }
 
