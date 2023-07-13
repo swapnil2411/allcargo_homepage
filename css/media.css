@@ -1058,9 +1058,9 @@
         padding-bottom: 40px;
     }
 
-    .home_about_us_area .container{
+    /* .home_about_us_area .container{
         padding-right: 15px !important;
-    }
+    } */
 
     .home_about_us_carousel .owl-dots{
         text-align: center;
